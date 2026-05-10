@@ -1,0 +1,11 @@
+title: "🐢⚡ KAME API Rotation & Stability Engine"
+description: "The ultimate high-availability failover engine for Agent Zero. Manages independent key pools with smart rate-limiting, predictive key selection, and framework-level stability shields to ensure your agent never stops."
+github: https://github.com/Kame696/kame-api-engine
+tags:
+  - tools
+  - automation
+  - api
+  - workflow
+  - security
+screenshots:
+  - https://raw.githubusercontent.com/Kame696/kame-api-engine/main/webui/kame_banner.jpg
